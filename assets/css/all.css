@@ -254,7 +254,7 @@ nav .selected {
 	}
 	
 	.headerzx span {color:#0033FF;}
-	.headerzx h1{font-weight:800;}
+	.headerzx h1{color: orange; font-weight:800;}
 
 /*@media only screen and (max-width: 650px) {
 .headerzx {
